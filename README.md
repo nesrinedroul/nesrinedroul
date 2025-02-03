@@ -8,7 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=nesrinedroul&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/nesrinedroul?label=Followers&style=social" alt="GitHub Followers" />
 </p>
-### 👩‍💻 About Me:
+
+### 👩‍💻 About Me: 
 - 🌱 Currently learning **Machine Learning & Backend Development**  
 - 🎨 Passionate about **Frontend, UI/UX, and Web Animations**  
 - 🔥 Love working with **React, JavaScript & Tailwind CSS**  
