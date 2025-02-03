@@ -1,20 +1,18 @@
-<h1 align="center">Hi there, I'm Nesrine Droul 👋</h1>
-<h3 align="center">🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 📍 Algeria</h3>
+<p align='center'>
+<img  align='center' alt="GIF" src="https://i.pinimg.com/originals/a8/05/4b/a8054bd49daa169530dcb99b0c606a66.gif" width="500" />
+</p>
 
+### <h1 align="left"> Hi there, I'm Nesrine Droul<img alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fa1d5a5-b709-4b97-8118-d37fed58aaeb/defr5rj-823ca06e-f723-4382-89de-e1fbc4222238.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmYTFkNWE1LWI3MDktNGI5Ny04MTE4LWQzN2ZlZDU4YWFlYlwvZGVmcjVyai04MjNjYTA2ZS1mNzIzLTQzODItODlkZS1lMWZiYzQyMjIyMzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NA-RwOczcGjniaORHmZ-8NU8hMJgX469aEvquW_lH-g" width="60"/>  </h1>
+<h3 align="center">🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 📍 Algeria</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nesrinedroul&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/nesrinedroul?label=Followers&style=social" alt="GitHub Followers" />
 </p>
-
-<img align="center" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
 ### 👩‍💻 About Me:
 - 🌱 Currently learning **Machine Learning & Backend Development**  
 - 🎨 Passionate about **Frontend, UI/UX, and Web Animations**  
 - 🔥 Love working with **React, JavaScript & Tailwind CSS**  
 - 📩 Reach me at **droulnesrine@gmail.com**  
-
----
 
 ### 🚀 **Tech Stack & Tools**
 <p align="center">
