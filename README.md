@@ -31,8 +31,9 @@
 ### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nesrinedroul&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nesrinedroul&theme=radical" alt="GitHub Streak" width="450"/>
+  <img src="https://streak-stats.demolab.com?user=nesrinedroul&theme=radical&hide_border=true" alt="GitHub Streak" width="450"/>
 </p>
+
 
 ---
 
