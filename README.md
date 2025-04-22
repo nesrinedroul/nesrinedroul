@@ -80,9 +80,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nesrinedroul&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
-
+<p align="center">
 ![Nesrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=nesrinedroul&show_icons=true&theme=tokyonight)
-
+</p>  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nesrinedroul&theme=dracula" alt="GitHub Streak" />
 </p>
