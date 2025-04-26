@@ -75,20 +75,26 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Most used languages
 
 <div align="center">
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesrinedroul&layout=compact&card_width=1000" 
        alt="Top Languages"
   />
-</div>
+</div> 
+
+---
+
+### 📊 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nesrinedroul&show_icons=true&theme=tokyonight"/>
-</div>  
+</div> 
+
+---
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nesrinedroul&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
-
