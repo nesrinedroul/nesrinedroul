@@ -77,23 +77,18 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nesrinedroul&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-<p align="center">
+<div align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesrinedroul&layout=compact&card_width=1000" 
+       alt="Top Languages"
+  />
+</div>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nesrinedroul&show_icons=true&theme=tokyonight"/>
-</p>  
-<p align="center">
+</div>  
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nesrinedroul&theme=dracula" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
-
-### 💡 Fun Fact
-
-> _"Design is not just what it looks like and feels like. Design is how it works."_ — **Steve Jobs**
-
----
-
-🌸 _Thank you for visiting my profile! Don’t forget to leave a ⭐ if you like my projects!_
 
